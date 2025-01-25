@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm currently learning how to use Python for data analysis!
+
+Pronouns: he/him
+
 <!--
 **CarterWalker/CarterWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
